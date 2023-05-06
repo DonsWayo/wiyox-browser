@@ -80,7 +80,7 @@
     "react-hot-loader": "4.12.11",
     "sass-loader": "7.2.0",
     "source-map-loader": "0.2.4",
-    "spectron": "8.0.0",
+    "spectron": "19.0.0",
     "style-loader": "1.0.0",
     "typescript": "3.5.3",
     "webpack": "4.39.1",
